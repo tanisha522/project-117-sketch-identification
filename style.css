@@ -1,0 +1,51 @@
+#score
+{
+    margin-right:900px;
+    font-size:25px;
+}
+
+#timer
+{
+    font-size: 25px;
+   float:right;
+   margin-right:85px;
+}
+
+#your_sketch
+{
+    font-weight:bold;
+    font-size:17px;
+}
+
+body
+{
+    background: rgb(241,133,180);
+    background: radial-gradient(circle, rgba(241,133,180,1) 0%, rgba(144,99,246,1) 50%, rgba(49,230,244,1) 100%);
+}
+
+h1
+{
+color:chartreuse;
+background-color: rgb(251, 151, 0);
+border-color:blue;
+border-style:dashed;
+border-width:3px;
+}
+
+#show_sketch
+{
+    float:right;
+}
+
+#SketchToBeDrawn
+{
+    font-weight:bold;
+    font-size:17px;
+    color:rgb(242, 255, 0);
+}
+
+#confidence
+{
+    font-weight:bold;
+    font-size:17px;
+}
